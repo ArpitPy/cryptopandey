@@ -32,7 +32,7 @@ https://cryptopandey-7df52.firebaseapp.com/
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/ArpitPy/cryptopandey.git
 ```
 
 Go to the project directory
